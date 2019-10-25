@@ -1,4 +1,4 @@
-/*
+/* 二叉树的遍历
  * 测试数据：ABD##FE###CG#H##I##
  */
 #include <stdio.h>
